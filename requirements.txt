@@ -1,0 +1,5 @@
+colorama
+requests
+asyncio
+aiohttp
+pystyle
